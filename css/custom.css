@@ -4,3 +4,7 @@ ul.list-inline{
 p.mb-1{
     text-indent: 10px;
 }
+
+#education, #skills, #interests{
+    min-height: 50vh;
+}
